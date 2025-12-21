@@ -21,3 +21,4 @@ setStudents = {'John', 'Bob', 'Jack', 'Mike'}
 setStudents.add('Donald')
 
 print('John' in setStudents)
+print('Michael' in setStudents)
